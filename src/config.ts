@@ -20,9 +20,9 @@ export const siteConfig = {
   
   // Social Links - UPDATE THESE WITH YOUR PROFILES
   social: {
-    // youtube: "https://youtube.com/@eetutoring",
-    // instagram: "https://instagram.com/eetutoring",
-    // facebook: "https://facebook.com/eetutoring",
+    youtube: "https://youtube.com/@Sciencegalore",
+    instagram: "https://instagram.com/Sciencegalore",
+    facebook: "https://facebook.com/Sciencegalore",
     linkedin: "https://www.linkedin.com/in/velani-maphumulo-167453144/",
   },
   
@@ -149,36 +149,36 @@ export const siteConfig = {
   ],
   
   // Testimonials - UPDATE WITH YOUR STUDENT FEEDBACK
-  // testimonials: [
-  //   {
-  //     name: "Thabo Mokoena",
-  //     grade: "Grade 12",
-  //     text: "The tutor explained Physics concepts so clearly using real engineering examples. I went from 45% to 78% in my final matric exam!",
-  //     rating: 5,
-  //     image: "/student1.jpg",
-  //   },
-  //   {
-  //     name: "Sarah van Wyk",
-  //     grade: "Grade 11",
-  //     text: "Online lessons were so convenient and effective. The flexible scheduling worked perfectly with my hockey practice.",
-  //     rating: 5,
-  //     image: "/student2.jpg",
-  //   },
-  //   {
-  //     name: "Lungile Nkosi",
-  //     grade: "Grade 12",
-  //     text: "The past paper practice sessions were a game-changer. I felt so prepared for my matric finals and achieved a distinction!",
-  //     rating: 5,
-  //     image: "/student3.jpg",
-  //   },
-  //   {
-  //     name: "Johan Pretorius",
-  //     grade: "Grade 10",
-  //     text: "My son's confidence in Maths has grown tremendously. The face-to-face sessions at the library work great for us.",
-  //     rating: 5,
-  //     image: "/student4.jpg",
-  //   },
-  // ],
+  testimonials: [
+    {
+      name: "Vuyo Shongwe",
+      grade: "Grade 12",
+      text: "The tutor explained Physics concepts so clearly using real engineering examples. I went from 45% to 78% in my final matric exam!",
+      rating: 5,
+      image: "/student1.jpg",
+    },
+    {
+      name: "Leah Shezi",
+      grade: "Grade 11",
+      text: "Face-to-face lessons were so convenient and effective. The flexible scheduling worked perfectly with my other subject's tutorial.",
+      rating: 5,
+      image: "/student2.jpg",
+    },
+    // {
+    //   name: "Lungile Nkosi",
+    //   grade: "Grade 12",
+    //   text: "The past paper practice sessions were a game-changer. I felt so prepared for my matric finals and achieved a distinction!",
+    //   rating: 5,
+    //   image: "/student3.jpg",
+    // },
+    // {
+    //   name: "Johan Pretorius",
+    //   grade: "Grade 10",
+    //   text: "My son's confidence in Maths has grown tremendously. The face-to-face sessions at the library work great for us.",
+    //   rating: 5,
+    //   image: "/student4.jpg",
+    // },
+  ],
   
   // Pricing - SOUTH AFRICAN RAND (ZAR)
   pricing: [
