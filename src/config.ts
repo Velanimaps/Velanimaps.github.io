@@ -12,10 +12,10 @@ export const siteConfig = {
   
   // Contact Information - UPDATE THESE WITH YOUR DETAILS
   contact: {
-    phone: "+27 71 234 5678",  // Update with your number
-    email: "tutor@eeacademy.co.za",  // Update with your email
-    address: "Designated tutoring locations across South Africa",  // Update with your area
-    whatsapp: "+27 71 234 5678",  // Update with your WhatsApp
+    phone: "+27 61 016 9728",  // Update with your number
+    email: "velanijobs@gmail.com",  // Update with your email
+    address: "Designated tutoring locations across Durban",  // Update with your area
+    whatsapp: "+27 61 016 9728",  // Update with your WhatsApp
   },
   
   // Social Links - UPDATE THESE WITH YOUR PROFILES
@@ -23,15 +23,15 @@ export const siteConfig = {
     youtube: "https://youtube.com/@eetutoring",
     instagram: "https://instagram.com/eetutoring",
     facebook: "https://facebook.com/eetutoring",
-    linkedin: "https://linkedin.com/in/eetutoring",
+    linkedin: "https://www.linkedin.com/in/velani-maphumulo-167453144/",
   },
   
   // Tutor Info
   tutor: {
-    name: "Your Name",  // UPDATE: Your full name
+    name: "Velani Maphumulo",  // UPDATE: Your full name
     title: "BEng Electrical Engineering",
     experience: "5 years",
-    students: "100+",
+    students: "10+",
     successRate: "90%",
     bio: "I am a qualified Electrical Engineer with 5 years of experience tutoring Physics and Mathematics to high school students. I specialize in the South African CAPS syllabus for Grades 10, 11, and 12. My engineering background gives me a unique perspective on applying theoretical concepts to real-world problems. I offer both online lessons via Zoom/Microsoft Teams and face-to-face sessions at designated locations. My teaching approach focuses on building strong fundamentals, exam preparation, and boosting student confidence.",
     image: "/tutor.jpg",
@@ -70,20 +70,20 @@ export const siteConfig = {
       ],
       color: "from-purple-500 to-pink-400",
     },
-    {
-      name: "Mathematical Literacy",
-      icon: "BookOpen",
-      grades: ["Grade 10", "Grade 11", "Grade 12"],
-      description: "Practical mathematics for everyday life. Finance, measurement, data handling, and probability made simple.",
-      topics: [
-        "Finance (Tax, Interest, Budgets)",
-        "Measurement & Conversions",
-        "Maps, Plans & Representations",
-        "Data Handling",
-        "Probability"
-      ],
-      color: "from-green-500 to-emerald-400",
-    },
+    // {
+    //   name: "Mathematical Literacy",
+    //   icon: "BookOpen",
+    //   grades: ["Grade 10", "Grade 11", "Grade 12"],
+    //   description: "Practical mathematics for everyday life. Finance, measurement, data handling, and probability made simple.",
+    //   topics: [
+    //     "Finance (Tax, Interest, Budgets)",
+    //     "Measurement & Conversions",
+    //     "Maps, Plans & Representations",
+    //     "Data Handling",
+    //     "Probability"
+    //   ],
+    //   color: "from-green-500 to-emerald-400",
+    // },
   ],
   
   // Features/Benefits
