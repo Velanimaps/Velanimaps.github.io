@@ -20,9 +20,9 @@ export const siteConfig = {
   
   // Social Links - UPDATE THESE WITH YOUR PROFILES
   social: {
-    youtube: "https://youtube.com/@eetutoring",
-    instagram: "https://instagram.com/eetutoring",
-    facebook: "https://facebook.com/eetutoring",
+    // youtube: "https://youtube.com/@eetutoring",
+    // instagram: "https://instagram.com/eetutoring",
+    // facebook: "https://facebook.com/eetutoring",
     linkedin: "https://www.linkedin.com/in/velani-maphumulo-167453144/",
   },
   
@@ -128,63 +128,63 @@ export const siteConfig = {
       type: "PDF",
       link: "#",
     },
-    {
-      title: "DBE Past Papers",
-      description: "Department of Basic Education past exam papers with solutions",
-      type: "PDF",
-      link: "#",
-    },
+    // {
+    //   title: "DBE Past Papers",
+    //   description: "Department of Basic Education past exam papers with solutions (To upload in a later stage)",
+    //   type: "PDF",
+    //   link: "#",
+    // },
     {
       title: "Video Tutorials",
-      description: "Recorded explanations of challenging topics for revision",
+      description: "Recorded explanations of challenging topics for revision (To upload in a later stage)",
       type: "Video",
       link: "#",
     },
-    {
-      title: "Study Guides",
-      description: "Comprehensive study notes covering the entire CAPS curriculum",
-      type: "PDF",
-      link: "#",
-    },
+    // {
+    //   title: "Study Guides",
+    //   description: "Comprehensive study notes covering the entire CAPS curriculum (To upload in a later stage)",
+    //   type: "PDF",
+    //   link: "#",
+    // },
   ],
   
   // Testimonials - UPDATE WITH YOUR STUDENT FEEDBACK
-  testimonials: [
-    {
-      name: "Thabo Mokoena",
-      grade: "Grade 12",
-      text: "The tutor explained Physics concepts so clearly using real engineering examples. I went from 45% to 78% in my final matric exam!",
-      rating: 5,
-      image: "/student1.jpg",
-    },
-    {
-      name: "Sarah van Wyk",
-      grade: "Grade 11",
-      text: "Online lessons were so convenient and effective. The flexible scheduling worked perfectly with my hockey practice.",
-      rating: 5,
-      image: "/student2.jpg",
-    },
-    {
-      name: "Lungile Nkosi",
-      grade: "Grade 12",
-      text: "The past paper practice sessions were a game-changer. I felt so prepared for my matric finals and achieved a distinction!",
-      rating: 5,
-      image: "/student3.jpg",
-    },
-    {
-      name: "Johan Pretorius",
-      grade: "Grade 10",
-      text: "My son's confidence in Maths has grown tremendously. The face-to-face sessions at the library work great for us.",
-      rating: 5,
-      image: "/student4.jpg",
-    },
-  ],
+  // testimonials: [
+  //   {
+  //     name: "Thabo Mokoena",
+  //     grade: "Grade 12",
+  //     text: "The tutor explained Physics concepts so clearly using real engineering examples. I went from 45% to 78% in my final matric exam!",
+  //     rating: 5,
+  //     image: "/student1.jpg",
+  //   },
+  //   {
+  //     name: "Sarah van Wyk",
+  //     grade: "Grade 11",
+  //     text: "Online lessons were so convenient and effective. The flexible scheduling worked perfectly with my hockey practice.",
+  //     rating: 5,
+  //     image: "/student2.jpg",
+  //   },
+  //   {
+  //     name: "Lungile Nkosi",
+  //     grade: "Grade 12",
+  //     text: "The past paper practice sessions were a game-changer. I felt so prepared for my matric finals and achieved a distinction!",
+  //     rating: 5,
+  //     image: "/student3.jpg",
+  //   },
+  //   {
+  //     name: "Johan Pretorius",
+  //     grade: "Grade 10",
+  //     text: "My son's confidence in Maths has grown tremendously. The face-to-face sessions at the library work great for us.",
+  //     rating: 5,
+  //     image: "/student4.jpg",
+  //   },
+  // ],
   
   // Pricing - SOUTH AFRICAN RAND (ZAR)
   pricing: [
     {
       name: "Online Sessions",
-      price: "R250",
+      price: "R80",
       period: "per hour",
       features: [
         "One-on-one online lessons",
@@ -197,7 +197,7 @@ export const siteConfig = {
     },
     {
       name: "Face-to-Face",
-      price: "R300",
+      price: "R100",
       period: "per hour",
       features: [
         "In-person at designated location",
@@ -210,10 +210,10 @@ export const siteConfig = {
     },
     {
       name: "Group Sessions",
-      price: "R150",
+      price: "R90",
       period: "per student/hour",
       features: [
-        "2-4 students per group",
+        "2-10 students per group",
         "Peer learning benefits",
         "Reduced individual cost",
         "Online or face-to-face",
