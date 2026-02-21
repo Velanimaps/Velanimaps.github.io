@@ -243,11 +243,11 @@ export const siteConfig = {
     },
     {
       question: "What are your rates?",
-      answer: "Online sessions are R250/hour, face-to-face is R300/hour, and group sessions (2-4 students) are R150 per student per hour. Contact me for package deals!",
+      answer: "Online sessions are R80/hour, face-to-face is R100/hour, and group sessions (2-4 students) are R90 per student per hour. Contact me for package deals!",
     },
     {
       question: "Do you provide study materials?",
-      answer: "Yes, all students receive comprehensive study notes, formula sheets, and access to DBE past exam papers with detailed solutions.",
+      answer: "Yes, all students receive comprehensive study notes, formula sheets, and access upon request tailored for their learning pace.",
     },
   ],
   
