@@ -6,7 +6,7 @@
 
 export const siteConfig = {
   // Basic Info
-  name: "EE Tutoring Academy",
+  name: "Science Galore",
   tagline: "Excellence in Physics & Mathematics",
   description: "Professional Physics and Mathematics tutoring for South African students in Grades 10, 11 & 12. Online lessons or face-to-face at designated locations.",
   
