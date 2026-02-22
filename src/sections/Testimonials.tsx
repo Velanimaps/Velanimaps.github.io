@@ -126,9 +126,9 @@ export function Testimonials() {
         {/* Stats */}
         <div className="grid grid-cols-2 lg:grid-cols-4 gap-6 mt-16">
           {[
-            { value: '2000+', label: 'Happy Students' },
+            { value: '10+', label: 'Happy Students' },
             { value: '95%', label: 'Success Rate' },
-            { value: '15+', label: 'Years Experience' },
+            { value: '5+', label: 'Years Experience' },
             { value: '4.9', label: 'Average Rating' },
           ].map((stat, index) => (
             <div

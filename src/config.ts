@@ -34,7 +34,8 @@ export const siteConfig = {
     students: "10+",
     successRate: "90%",
     bio: "I am a qualified Electrical Engineer with 5 years of experience tutoring Physics and Mathematics to high school students. I specialize in the South African CAPS syllabus for Grades 10, 11, and 12. My engineering background gives me a unique perspective on applying theoretical concepts to real-world problems. I offer both online lessons via Zoom/Microsoft Teams and face-to-face sessions at designated locations. My teaching approach focuses on building strong fundamentals, exam preparation, and boosting student confidence.",
-    image: "/public/profile/Tutor_cartoon_pic.png",
+    image: "/profile/Tutor_cartoon_profile_pic.png ",
+    
   },
   
   // Subjects Offered - SOUTH AFRICAN CAPS SYLLABUS
