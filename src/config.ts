@@ -6,32 +6,32 @@
 
 export const siteConfig = {
   // Basic Info
-  name: "EE Tutoring Academy",
+  name: "Science Galore",
   tagline: "Excellence in Physics & Mathematics",
   description: "Professional Physics and Mathematics tutoring for South African students in Grades 10, 11 & 12. Online lessons or face-to-face at designated locations.",
   
   // Contact Information - UPDATE THESE WITH YOUR DETAILS
   contact: {
-    phone: "+27 71 234 5678",  // Update with your number
-    email: "tutor@eeacademy.co.za",  // Update with your email
-    address: "Designated tutoring locations across South Africa",  // Update with your area
-    whatsapp: "+27 71 234 5678",  // Update with your WhatsApp
+    phone: "+27 61 016 9728",  // Update with your number
+    email: "velanijobs@gmail.com",  // Update with your email
+    address: "Designated tutoring locations across Durban",  // Update with your area
+    whatsapp: "+27 61 016 9728",  // Update with your WhatsApp
   },
   
   // Social Links - UPDATE THESE WITH YOUR PROFILES
   social: {
-    youtube: "https://youtube.com/@eetutoring",
-    instagram: "https://instagram.com/eetutoring",
-    facebook: "https://facebook.com/eetutoring",
-    linkedin: "https://linkedin.com/in/eetutoring",
+    youtube: "https://youtube.com/@Sciencegalore",
+    instagram: "https://instagram.com/Sciencegalore",
+    facebook: "https://facebook.com/Sciencegalore",
+    linkedin: "https://www.linkedin.com/in/velani-maphumulo-167453144/",
   },
   
   // Tutor Info
   tutor: {
-    name: "Your Name",  // UPDATE: Your full name
+    name: "Velani Maphumulo",  // UPDATE: Your full name
     title: "BEng Electrical Engineering",
     experience: "5 years",
-    students: "100+",
+    students: "10+",
     successRate: "90%",
     bio: "I am a qualified Electrical Engineer with 5 years of experience tutoring Physics and Mathematics to high school students. I specialize in the South African CAPS syllabus for Grades 10, 11, and 12. My engineering background gives me a unique perspective on applying theoretical concepts to real-world problems. I offer both online lessons via Zoom/Microsoft Teams and face-to-face sessions at designated locations. My teaching approach focuses on building strong fundamentals, exam preparation, and boosting student confidence.",
     image: "/tutor.jpg",
@@ -70,20 +70,20 @@ export const siteConfig = {
       ],
       color: "from-purple-500 to-pink-400",
     },
-    {
-      name: "Mathematical Literacy",
-      icon: "BookOpen",
-      grades: ["Grade 10", "Grade 11", "Grade 12"],
-      description: "Practical mathematics for everyday life. Finance, measurement, data handling, and probability made simple.",
-      topics: [
-        "Finance (Tax, Interest, Budgets)",
-        "Measurement & Conversions",
-        "Maps, Plans & Representations",
-        "Data Handling",
-        "Probability"
-      ],
-      color: "from-green-500 to-emerald-400",
-    },
+    // {
+    //   name: "Mathematical Literacy",
+    //   icon: "BookOpen",
+    //   grades: ["Grade 10", "Grade 11", "Grade 12"],
+    //   description: "Practical mathematics for everyday life. Finance, measurement, data handling, and probability made simple.",
+    //   topics: [
+    //     "Finance (Tax, Interest, Budgets)",
+    //     "Measurement & Conversions",
+    //     "Maps, Plans & Representations",
+    //     "Data Handling",
+    //     "Probability"
+    //   ],
+    //   color: "from-green-500 to-emerald-400",
+    // },
   ],
   
   // Features/Benefits
@@ -128,63 +128,63 @@ export const siteConfig = {
       type: "PDF",
       link: "#",
     },
-    {
-      title: "DBE Past Papers",
-      description: "Department of Basic Education past exam papers with solutions",
-      type: "PDF",
-      link: "#",
-    },
+    // {
+    //   title: "DBE Past Papers",
+    //   description: "Department of Basic Education past exam papers with solutions (To upload in a later stage)",
+    //   type: "PDF",
+    //   link: "#",
+    // },
     {
       title: "Video Tutorials",
-      description: "Recorded explanations of challenging topics for revision",
+      description: "Recorded explanations of challenging topics for revision (To upload in a later stage)",
       type: "Video",
       link: "#",
     },
-    {
-      title: "Study Guides",
-      description: "Comprehensive study notes covering the entire CAPS curriculum",
-      type: "PDF",
-      link: "#",
-    },
+    // {
+    //   title: "Study Guides",
+    //   description: "Comprehensive study notes covering the entire CAPS curriculum (To upload in a later stage)",
+    //   type: "PDF",
+    //   link: "#",
+    // },
   ],
   
   // Testimonials - UPDATE WITH YOUR STUDENT FEEDBACK
   testimonials: [
     {
-      name: "Thabo Mokoena",
+      name: "Vuyo Shongwe",
       grade: "Grade 12",
       text: "The tutor explained Physics concepts so clearly using real engineering examples. I went from 45% to 78% in my final matric exam!",
       rating: 5,
       image: "/student1.jpg",
     },
     {
-      name: "Sarah van Wyk",
+      name: "Leah Shezi",
       grade: "Grade 11",
-      text: "Online lessons were so convenient and effective. The flexible scheduling worked perfectly with my hockey practice.",
+      text: "Face-to-face lessons were so convenient and effective. The flexible scheduling worked perfectly with my other subject's tutorial.",
       rating: 5,
       image: "/student2.jpg",
     },
-    {
-      name: "Lungile Nkosi",
-      grade: "Grade 12",
-      text: "The past paper practice sessions were a game-changer. I felt so prepared for my matric finals and achieved a distinction!",
-      rating: 5,
-      image: "/student3.jpg",
-    },
-    {
-      name: "Johan Pretorius",
-      grade: "Grade 10",
-      text: "My son's confidence in Maths has grown tremendously. The face-to-face sessions at the library work great for us.",
-      rating: 5,
-      image: "/student4.jpg",
-    },
+    // {
+    //   name: "Lungile Nkosi",
+    //   grade: "Grade 12",
+    //   text: "The past paper practice sessions were a game-changer. I felt so prepared for my matric finals and achieved a distinction!",
+    //   rating: 5,
+    //   image: "/student3.jpg",
+    // },
+    // {
+    //   name: "Johan Pretorius",
+    //   grade: "Grade 10",
+    //   text: "My son's confidence in Maths has grown tremendously. The face-to-face sessions at the library work great for us.",
+    //   rating: 5,
+    //   image: "/student4.jpg",
+    // },
   ],
   
   // Pricing - SOUTH AFRICAN RAND (ZAR)
   pricing: [
     {
       name: "Online Sessions",
-      price: "R250",
+      price: "R80",
       period: "per hour",
       features: [
         "One-on-one online lessons",
@@ -197,7 +197,7 @@ export const siteConfig = {
     },
     {
       name: "Face-to-Face",
-      price: "R300",
+      price: "R100",
       period: "per hour",
       features: [
         "In-person at designated location",
@@ -210,10 +210,10 @@ export const siteConfig = {
     },
     {
       name: "Group Sessions",
-      price: "R150",
+      price: "R90",
       period: "per student/hour",
       features: [
-        "2-4 students per group",
+        "2-10 students per group",
         "Peer learning benefits",
         "Reduced individual cost",
         "Online or face-to-face",
@@ -243,11 +243,11 @@ export const siteConfig = {
     },
     {
       question: "What are your rates?",
-      answer: "Online sessions are R250/hour, face-to-face is R300/hour, and group sessions (2-4 students) are R150 per student per hour. Contact me for package deals!",
+      answer: "Online sessions are R80/hour, face-to-face is R100/hour, and group sessions (2-4 students) are R90 per student per hour. Contact me for package deals!",
     },
     {
       question: "Do you provide study materials?",
-      answer: "Yes, all students receive comprehensive study notes, formula sheets, and access to DBE past exam papers with detailed solutions.",
+      answer: "Yes, all students receive comprehensive study notes, formula sheets, and access upon request tailored for their learning pace.",
     },
   ],
   

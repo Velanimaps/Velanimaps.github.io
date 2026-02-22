@@ -66,7 +66,7 @@ export function Contact() {
                     <Monitor className="w-6 h-6 text-blue-400" />
                   </div>
                   <h4 className="font-semibold mb-1">Online Lessons</h4>
-                  <p className="text-sm text-muted-foreground mb-2">R250/hour</p>
+                  <p className="text-sm text-muted-foreground mb-2">R80/hour</p>
                   <Badge variant="secondary" className="bg-blue-500/10 text-blue-300 text-xs">
                     Most Popular
                   </Badge>
@@ -79,7 +79,7 @@ export function Contact() {
                     <MapPin className="w-6 h-6 text-purple-400" />
                   </div>
                   <h4 className="font-semibold mb-1">Face-to-Face</h4>
-                  <p className="text-sm text-muted-foreground mb-2">R300/hour</p>
+                  <p className="text-sm text-muted-foreground mb-2">R100/hour</p>
                   <Badge variant="secondary" className="bg-purple-500/10 text-purple-300 text-xs">
                     Designated Location
                   </Badge>
@@ -137,8 +137,8 @@ export function Contact() {
                   </div>
                   <h4 className="font-semibold mb-1">Availability</h4>
                   <p className="text-sm text-muted-foreground">
-                    Mon - Sat, Flexible Hours
-                  </p>
+                     Mon- Thur, 16:30-17:30 online and Sun,8:00-10:00 face-to-face
+                  </p> 
                 </CardContent>
               </Card>
             </div>
