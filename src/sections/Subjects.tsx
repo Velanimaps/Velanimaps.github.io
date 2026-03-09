@@ -65,7 +65,7 @@ export function Subjects() {
         </div>
 
         {/* Subjects Grid */}
-        <div className="grid lg:grid-cols-3 gap-8 mb-16">
+        <div className="grid lg:grid-cols-2 gap-8 mb-16">
           {siteConfig.subjects.map((subject, index) => {
             const IconComponent = iconMap[subject.icon] || Atom;
             
